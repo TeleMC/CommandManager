@@ -1,0 +1,11 @@
+name: CommandManager
+main: CommandManager\CommandManager
+author: TeleMC
+version: 1.0.0
+api:
+  - 3.2.0
+  - 3.3.0
+  - 4.0.0
+commands:
+  cmd:
+    description: 커멘드 관리 명령어입니다.
